@@ -1,0 +1,1 @@
+web: java -jar target/backendp-0.0.1-SNAPSHOT.jar
